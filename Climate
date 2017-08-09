@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Earth-R-Us</title>
+
+</head>
+
+<style>
+
+div {
+
+
+
+
+
+}
+
+ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+
+    background-color:rgb(3, 195, 23);
+
+}
+
+
+
+li {
+
+    float: left;
+
+}
+
+
+
+li a {
+
+    display: block;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+
+
+
+}
+
+
+
+li a:hover {
+
+    background-color: #111;
+
+}
+
+</style>
+
+<body>
+
+
+
+<img src="logo.jpg">
+
+
+
+<ul>
+
+  <li><a class="active" href="#Home">Home</a></li>
+
+  <li><a href="#Recyle">Recyle</a></li>
+
+  <li><a href="#Local">Local</a></li>
+
+  <li><a href="#Climate">Climate</a></li>
+
+  <li><a href="#Eco Evaulate">Eco Evaulate</a></li>
+
+  <li><a href="#User Sign In">User Sign In</a></li>
+
+</ul>
+
+
+
+</body>
+
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe src="http://pollutionarticles.blogspot.com/2011/11/how-is-air-pollution-affecting-climate.htm" height="400" width="500"></iframe>
+<a href="http://pollutionarticles.blogspot.com/2011/11/how-is-air-pollution-affecting-climate.htm">link text</a>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe src="http://www.chicagoclimateaction.org/pages/climate_change_and_chicago/5.php" height="400" width="500"></iframe>
+<a href="http://www.chicagoclimateaction.org/pages/climate_change_and_chicago/5.php">link text</a>
+</body>
+</html>
+
+<img src="http://img.medscape.com/thumbnail_library/dt_150626_climate_change_600x600.jpg" alt="some_text" style="width:width;height:height;">
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe src="https://www.windows2universe.org/earth/Atmosphere/pollution_climate_change.html" height="400" width="500"></iframe>
+<a href="https://www.windows2universe.org/earth/Atmosphere/pollution_climate_change.html">link text</a>
+</body>
+</html>
